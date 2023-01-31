@@ -1,7 +1,9 @@
 # dmoney-api-jmx
+This project contains a JMeter test plan for Performance testing the Random Data API. The test plan includes HTTP Request samplers and assertions to validate the responses, and a set of performance metrics to measure the response times of the system.
+
 
 ## JMX File
-The JMX file for this project is named `Random-user-data-api.jmx`. It includes so many HTTP Request sampler and assertions to validate the response of the request. To run the test plan, you will need to have [JMeter](https://jmeter.apache.org) installed on your computer.
+The JMX file for this project is named `Random-user-data-api.jmx`. To run the test plan, you will need to have [JMeter](https://jmeter.apache.org) installed on your computer.
 
 ## How to Run the Test:
 1. Open the JMX file in JMeter.
