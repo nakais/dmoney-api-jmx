@@ -6,7 +6,7 @@ This project contains a JMeter test plan for Performance testing the Random Data
 The JMX file for this project is named `Random-user-data-api.jmx`. To run the test plan, you will need to have [JMeter](https://jmeter.apache.org) installed on your computer.
 
 ## How to Run the Test:
-1. Open the JMX file in JMeter.
+1. Calling CLI command to run the jmx file.
 2. Click the "Start" button to run the test.
 3. Wait for the test to complete.
 4. Analyze the results to determine if the website meets the expected performance criteria.
